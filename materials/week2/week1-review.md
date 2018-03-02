@@ -1,6 +1,8 @@
 # Quick review from week 1
 
-![Guido van Rossum, Pyhon creator](https://github.com/raspstephan/ESS-Python-Tutorial/new/master/materials/week2/guido.jpg)
+<!--   ![Guido van Rossum, Python creator](./guido.jpg) -->
+
+<img src="./guido.jpg" width="50%">
 
 1. Python is pretty easy to learn; it's a matter of going through official tutorials and searching for your questions on Stack Overflow
     * Check out the official [Python tutorial][python tutorial link] for a quick start guide
