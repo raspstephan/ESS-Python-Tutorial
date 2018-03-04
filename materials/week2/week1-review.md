@@ -7,6 +7,7 @@
 1. Python is pretty easy to learn; good places to start are:
     * The official [Python tutorial][python tutorial link] for a quick start guide.
     * If you're a __MATLAB__ user, the [Numpy for MATLAB users][numpy for matlab link] documentation.
+    * If you're a language stickler, check out the [Python style guide][pep 8 link].
 2. We recommend installing Python 3.x, as Python 2.7 is [no longer being updated][python 2 vs 3 link].
 3. We installed a Python 3.x distribution by way of [Anadonda][anaconda link].
     * One of the most useful aspects of Anaconda is [`conda`][conda link].
@@ -20,6 +21,8 @@
 [python tutorial link]: https://docs.python.org/3/tutorial/
 
 [numpy for matlab link]: https://docs.scipy.org/doc/numpy-dev/user/numpy-for-matlab-users.html
+
+[pep 8 link]: 
 
 [python 2 vs 3 link]: https://wiki.python.org/moin/Python2orPython3
 
