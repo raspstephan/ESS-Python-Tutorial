@@ -21,7 +21,7 @@
 # Today (week 2):  useful libraries to explore
 * __numpy:__ numerical python, ```import numpy``` or ```import numpy as np```
 * __scipy:__ scientific python, ```import scipy``` or ```import scipy as sp```
-* __matplotlib.pyplot:__ mathematical plotting library, ```import matplotlib.pyplot as plt``` or ```import matplotlib.pyplot as mp```
+* __matplotlib.pyplot:__ mathematical plotting library, ```import matplotlib.pyplot as plt```
 * __pandas:__ statistics and econometrics library, "__pan__ el __da__ ta", ```import pandas``` or ```import pandas as pd```
   * good for two-dimensional data like csv or txt files
   * __xarray__ (week 4) is a higher-dimensional alternative
