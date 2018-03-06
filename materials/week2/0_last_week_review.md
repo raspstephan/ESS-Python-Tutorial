@@ -28,6 +28,31 @@
 * __cartopy:__ cartographic library for python, ```import cartopy```
 * __netCDF4:__ NetCDF interfacing library (note:  __xarray__ and __UVCDAT__ are alternatives for this), ```import netCDF4``` (_note:  case matters!_)
 
+# Do this before the end of class TODAY!
+* Install ```netCDF4``` and ```cartopy``` in your anaconda installation by typing
+```
+$ conda install netcdf4 cartopy
+
+Fetching package metadata ...........
+Solving package specifications: .
+
+Package plan for installation in environment /Users/baird/anaconda/envs/nco_stable:
+
+The following NEW packages will be INSTALLED:
+
+    asn1crypto:      0.24.0-py36_0
+    cartopy:         0.16.0-py36he7b4726_0
+    cffi:            1.11.4-py36h342bebf_0
+    chardet:         3.0.4-py36h96c241c_1
+```
+
+# Do this before next week!
+* Install a ```UVCDAT``` environment:
+```
+conda create -n ENVT_NAME uvcdat -c conda-forge -c uvcdat
+source activate ENVT_NAME
+```
+
 [python tutorial link]: https://docs.python.org/3/tutorial/
 
 [numpy for matlab link]: https://docs.scipy.org/doc/numpy-dev/user/numpy-for-matlab-users.html
