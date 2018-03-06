@@ -18,12 +18,15 @@
     * __REMINDER__: To open Jupyter Notebook, type `jupyter notebook` on the command line __from the folder you want to run it in__.
     * You can also use [Interactive Python][interactive python link] by typing `ipython` on the command line.
 
-# Today (week 2):  numpy, sciyp, matplotlib, pandas, and cartopy
+# Today (week 2):  useful libraries to explore
 * __numpy:__ numerical python, ```import numpy``` or ```import numpy as np```
 * __scipy:__ scientific python, ```import scipy``` or ```import scipy as sp```
 * __matplotlib.pyplot:__ mathematical plotting library, ```import matplotlib.pyplot as plt``` or ```import matplotlib.pyplot as mp```
-* __pandas:__ statistics and econometrics library, "__pan__el __da__ta", ```import pandas``` or ```import pandas as pd```
+* __pandas:__ statistics and econometrics library, "__pan__ el __da__ ta", ```import pandas``` or ```import pandas as pd```
+  * good for two-dimensional data like csv or txt files
+  * __xarray__ (week 4) is a higher-dimensional alternative
 * __cartopy:__ cartographic library for python, ```import cartopy```
+* __netcdf4:__ NetCDF interfacing library (note:  __xarray__ and __UVCDAT__ are alternatives for this)
 
 [python tutorial link]: https://docs.python.org/3/tutorial/
 
