@@ -28,7 +28,11 @@
 * __cartopy:__ cartographic library for python, ```import cartopy```
 * __netCDF4:__ NetCDF interfacing library (note:  __xarray__ and __UVCDAT__ are alternatives for this), ```import netCDF4``` (_note:  case matters!_)
 
-## Note:  If you ever try to import a library that is not recognized, check the spelling and case of the LeTtErS, and make sure you _have_ it listed in ```conda list```.  If it's not there, install it via ```conda install PACKAGE_NAME``` or ```conda install -c conda-forge PACKAGE_NAME```.
+__If you ever try to import a library that is not recognized:__
+1. Check the spelling and case of the LeTtErS, and make sure you _have_ it installed by checking ```conda list``` from the terminal shell
+2. If it's not there, install it via:
+  * ```conda install PACKAGE_NAME```
+  * ```conda install -c conda-forge PACKAGE_NAME```
 
 # Do this before the end of class TODAY!
 * Install ```netCDF4``` and ```cartopy``` in your anaconda installation by typing
