@@ -4,10 +4,10 @@
 
 <img src="./guido.jpg" width="30%">
 
-1. Python is pretty easy to learn; good places to start are:
+1. Good places to start learning Python include:
     * The official [Python tutorial][python tutorial link] for a quick start guide.
     * If you're a __MATLAB__ user, the [Numpy for MATLAB users][numpy for matlab link] documentation.
-    * If you're a language stickler, check out the [Python style guide][pep 8 link].
+    * ... and if you're a language stickler, check out the [Python style guide][pep 8 link].
 2. We recommend installing Python 3.x, as Python 2.7 is [no longer being updated][python 2 vs 3 link].
 3. We installed a Python 3.x distribution by way of [Anadonda][anaconda link].
     * One of the most useful aspects of Anaconda is [`conda`][conda link].
