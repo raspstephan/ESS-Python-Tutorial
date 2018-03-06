@@ -34,7 +34,7 @@ __If you ever try to import a library that is not recognized:__
   * ```conda install PACKAGE_NAME```
   * ```conda install -c conda-forge PACKAGE_NAME```
 
-# Do this before the end of class TODAY!
+# Do this before the end of class TODAY :computer:
 * Install ```netCDF4``` and ```cartopy``` in your anaconda installation by typing
 ```
 $ conda install netcdf4 cartopy
@@ -57,7 +57,7 @@ The following NEW packages will be INSTALLED:
     ...
 ```
 
-# Do this before next week!
+# Do this before next week :earth_americas:
 * Install a ```UVCDAT``` environment:
 ```
 conda create -n ENVT_NAME uvcdat -c conda-forge -c uvcdat
