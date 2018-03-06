@@ -14,7 +14,7 @@ by Baird Langenbrunner, Stephan Rasp, Chris Terai, and Galen Yacalis
   * Pandas and csv or txt files
   * Opening MATLAB and NetCDF files
   * Simple plots with Matplotlib
-  * Simple plots with cartopy
+  * Simple maps with cartopy
 * __Week 3 (Mar. 14 2018)__
   * Conda environments
   * Plotting and manipulating NetCDF data using UVCDAT
