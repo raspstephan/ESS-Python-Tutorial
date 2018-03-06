@@ -32,7 +32,9 @@
 * Install ```netCDF4``` and ```cartopy``` in your anaconda installation by typing
 ```
 $ conda install netcdf4 cartopy
-
+```
+* Something like this should come up; choose ```y``` (yes):
+```
 Fetching package metadata ...........
 Solving package specifications: .
 
@@ -44,6 +46,9 @@ The following NEW packages will be INSTALLED:
     cartopy:         0.16.0-py36he7b4726_0
     cffi:            1.11.4-py36h342bebf_0
     chardet:         3.0.4-py36h96c241c_1
+    ...
+    ...
+    ...
 ```
 
 # Do this before next week!
