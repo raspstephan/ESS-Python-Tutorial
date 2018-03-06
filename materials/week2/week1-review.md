@@ -22,7 +22,7 @@
 
 [numpy for matlab link]: https://docs.scipy.org/doc/numpy-dev/user/numpy-for-matlab-users.html
 
-[pep 8 link]: 
+[pep 8 link]: https://www.python.org/dev/peps/pep-0008/
 
 [python 2 vs 3 link]: https://wiki.python.org/moin/Python2orPython3
 
