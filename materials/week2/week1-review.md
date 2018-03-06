@@ -26,7 +26,7 @@
   * good for two-dimensional data like csv or txt files
   * __xarray__ (week 4) is a higher-dimensional alternative
 * __cartopy:__ cartographic library for python, ```import cartopy```
-* __netcdf4:__ NetCDF interfacing library (note:  __xarray__ and __UVCDAT__ are alternatives for this)
+* __netCDF4:__ NetCDF interfacing library (note:  __xarray__ and __UVCDAT__ are alternatives for this), ```import netCDF4``` (_note:  case matters!_)
 
 [python tutorial link]: https://docs.python.org/3/tutorial/
 
