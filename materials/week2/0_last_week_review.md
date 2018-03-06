@@ -13,7 +13,7 @@
     * One of the most useful aspects of Anaconda is [`conda`][conda link].
         * `conda` is an open source package manager that keeps all Python dependencies in check
         * Maybe the best part:  It doesn't require root permission to install, so you can always have a trustworthy Python installation where you have a home directory
-    * __REMINDER__: To open Python, just type `python` the command line, or launch the Anaconda Navigator application that is installed with Anaconda.
+    * __REMINDER__: To open a regular Python session, type `python` on the command line of a terminal shell, or launch the Anaconda Navigator application that is installed with Anaconda.
 4. We learned about [Jupyter Notebook][what is jupyter notebook link] and messed around with our first [notebook file][intro notebook link].
     * __REMINDER__: To open Jupyter Notebook, type `jupyter notebook` on the command line __from the folder you want to run it in__.
     * You can also use [Interactive Python][interactive python link] by typing `ipython` on the command line.
