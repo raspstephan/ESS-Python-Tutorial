@@ -57,6 +57,7 @@ The following NEW packages will be INSTALLED:
 conda create -n ENVT_NAME uvcdat -c conda-forge -c uvcdat
 source activate ENVT_NAME
 ```
+* In ```ENVT_NAME```, choose an environment name that you can remember, like ```myuvcdat```, ```uvcdat_env```, or ```uvcdat_stable```
 
 [python tutorial link]: https://docs.python.org/3/tutorial/
 
