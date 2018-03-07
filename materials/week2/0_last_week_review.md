@@ -13,6 +13,7 @@
     * One of the most useful aspects of Anaconda is [`conda`][conda link].
         * `conda` is an open source package manager that keeps all Python dependencies in check
         * Maybe the best part:  It doesn't require root permission to install, so you can always have a trustworthy Python installation where you have a home directory
+        * Check out the [conda cheatsheet][conda cheatsheet link] to get familiar with it
     * __REMINDER__: To open a regular Python session, type `python` on the command line of a terminal shell, or launch the Anaconda Navigator application that is installed with Anaconda.
 4. We learned about [Jupyter Notebook][what is jupyter notebook link] and messed around with our first [notebook file][intro notebook link].
     * __REMINDER__: To open Jupyter Notebook, type `jupyter notebook` on the command line __from the folder you want to run it in__.
@@ -83,6 +84,8 @@ source activate ENVT_NAME
 [anaconda link]: https://www.anaconda.com/download/
 
 [conda link]: https://conda.io/docs/user-guide/install/download.html
+
+[conda cheatsheet link]: https://conda.io/docs/_downloads/conda-cheatsheet.pdf
 
 [what is jupyter notebook link]: https://jupyter-notebook.readthedocs.io/en/stable/examples/Notebook/What%20is%20the%20Jupyter%20Notebook.html
 
