@@ -24,20 +24,26 @@
 * __matplotlib.pyplot:__ mathematical plotting library, ```import matplotlib.pyplot as plt```
 * __pandas:__ statistics and econometrics library, "**pan**el **da**ta", ```import pandas``` or ```import pandas as pd```
   * good for two-dimensional data like csv or txt files
-  * __xarray__ (week 4) is a higher-dimensional alternative
 * __cartopy:__ cartographic library for python, ```import cartopy```
-* __netCDF4:__ NetCDF interfacing library (note:  __xarray__ and __UVCDAT__ are alternatives for this), ```import netCDF4``` (_note:  case matters!_)
+* __xarray:__ NetCDF interfacing library (note: __UVCDAT__ is an alternative), ```import netCDF4``` (case matters!_)
+  * Chris will cover __UVCDAT__ in week 3
+  * Stephan will cover __xarray__ in week 4
 
 __If you ever try to import a library that is not recognized:__
-1. Check the spelling and case of the LeTtErS, and make sure you _have_ it installed by checking ```conda list``` from the terminal shell
-2. If it's not there, install it via:
-  * ```conda install PACKAGE_NAME```
-  * ```conda install -c conda-forge PACKAGE_NAME```
+1. Check the spelling and case of the LeTtErS
+2. Make sure you _have_ it installed by looking for it in the output of ```conda list``` from the terminal shell
+3. If it's not there, install it via:
+
+```conda install PACKAGE_NAME```
+
+or
+
+```conda install -c conda-forge PACKAGE_NAME```
 
 # Do this before the end of class TODAY :computer:
-* Install ```netCDF4``` and ```cartopy``` in your anaconda installation by typing in a new __terminal shell__:
+* Install ```xarray``` and ```cartopy``` in your anaconda installation by typing in a new __terminal shell__:
 ```
-$ conda install netcdf4 cartopy
+$ conda install xarray cartopy
 ```
 * Something like this should come up; choose ```y``` (yes):
 ```
@@ -63,7 +69,7 @@ The following NEW packages will be INSTALLED:
 conda create -n ENVT_NAME uvcdat -c conda-forge -c uvcdat
 source activate ENVT_NAME
 ```
-* In ```ENVT_NAME```, choose an environment name that you can remember, like ```myuvcdat```, ```uvcdat_env```, or ```uvcdat_stable```
+* In ```ENVT_NAME```, choose an environment name that you can remember, like ```myuvcdat```, ```uvcdat_env```, or ```uvcdat_stable```.  Remember you can list all of your conda environments by typing ```conda info --envs``` at the command line.
 
 [python tutorial link]: https://docs.python.org/3/tutorial/
 
