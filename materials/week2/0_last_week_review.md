@@ -45,12 +45,17 @@ or
 # Do this before the end of class TODAY :computer:
 * Install ```xarray``` and ```cartopy``` in your anaconda installation by typing in a new __terminal shell__:
 ```
+conda install xarray
+conda install cartopy
+```
+* You can also do this in one line:
+```
 conda install xarray cartopy
 ```
-* __NOTE:  If conda doesn't recognize the xarray and cartoy libraries, try the conda-forge channel (community-driven packages):__
+* __NOTE:__  If conda doesn't recognize the xarray or cartopy library, try the conda-forge channel (community-driven packages), INSTEAD:
 ```
-conda install -c conda-forge cartopy
 conda install -c conda-forge xarray
+conda install -c conda-forge cartopy
 ```
 * Something like this should come up; choose ```y``` (yes):
 ```
