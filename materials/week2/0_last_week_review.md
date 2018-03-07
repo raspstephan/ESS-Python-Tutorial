@@ -47,6 +47,11 @@ or
 ```
 conda install xarray cartopy
 ```
+* __NOTE:  If conda doesn't recognize the xarray and cartoy libraries, try the conda-forge channel (community-driven packages):__
+```
+conda install -c conda-forge cartopy
+conda install -c conda-forge xarray
+```
 * Something like this should come up; choose ```y``` (yes):
 ```
 Fetching package metadata ...........
