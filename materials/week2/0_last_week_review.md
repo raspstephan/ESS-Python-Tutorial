@@ -43,7 +43,7 @@ or
 # Do this before the end of class TODAY :computer:
 * Install ```xarray``` and ```cartopy``` in your anaconda installation by typing in a new __terminal shell__:
 ```
-$ conda install xarray cartopy
+conda install xarray cartopy
 ```
 * Something like this should come up; choose ```y``` (yes):
 ```
