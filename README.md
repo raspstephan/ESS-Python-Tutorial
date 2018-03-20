@@ -20,6 +20,9 @@ by Baird Langenbrunner, Stephan Rasp, Chris Terai, and Galen Yacalis
   * Plotting and manipulating NetCDF data using UVCDAT
 * __Week 4 (Mar. 21 2018)__
   * Xarray for gridded data sets
-  * Neural net modules
+  * Debugging python code
+
+* __To be covered later?...__
+  * Neural net / machine learning
   * GUIs (IDEs) for Python
   * Git workflow?
