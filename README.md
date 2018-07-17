@@ -1,28 +1,47 @@
-# UCI-ESS Python Tutorial Series 2018
+# UCI-ESS Python Tutorial Series
 
-by Baird Langenbrunner, Stephan Rasp, Chris Terai, and Galen Yacalis
+This was originally held on a ~weekly basis in the winter and spring of 2018, but the materials can be worked through at any pace.
+
+We will update the repository as we have more sessions.
+
+**Contributors (alph. order):**  
+Zack Labe  
+Baird Langenbrunner  
+Stephan Rasp  
+Chris Terai  
+Galen Yacalis  
 
 ## Tutorial schedule
-### _Wednesdays 1-2pm in 3rd floor Jenkins Room, Croul Hall_
 
-* __Week 1 (Feb. 28 2018)__
+Python libraries are styled as ```code``` below.
+
+* __Week 1 (Baird and Stephan)__
   * Install Python via Anaconda
   * Jupyter Notebook introduction
-* __Week 2 (Mar. 7 2018)__
+* __Week 2 (Baird)__
   * Python basics
-  * Numpy/Scipy primer
-  * Pandas and csv or txt files
+  * ```numpy```/```scipy``` primer
+  * ```pandas``` and csv/txt files
   * Opening MATLAB and NetCDF files
-  * Simple plots with Matplotlib
-  * Simple maps with cartopy
-* __Week 3 (Mar. 14 2018)__
+  * Simple plots with ```matplotlib```
+  * Simple maps with ```cartopy```
+* __Week 3 (Chris)__
   * Conda environments
-  * Plotting and manipulating NetCDF data using UVCDAT
-* __Week 4 (Mar. 21 2018)__
-  * Xarray for gridded data sets
-  * Debugging python code
-
-* __To be covered later?...__
-  * Neural net / machine learning
-  * GUIs (IDEs) for Python
-  * Git workflow?
+  * Plotting and manipulating NetCDF data using ```UVCDAT```
+* __Week 4 (Stephan)__
+  * ```xarray``` for gridded data sets
+  * Debugging Python code
+* __Week 5 (Baird and Stephan)__
+  * ```matplotlib``` figures (intermediate level)
+  * ```cartopy``` and plotting with maps
+  *  Animations in ```matplotlib```
+* __Week 6 (Stephan)__
+    * Machine learning basics
+    * ```keras``` neural network (applied to image classification:  recognizing hand-written digits)
+* __Week 7 (Galen)__
+  * ```scikit-learn``` and advanced ```pandas```
+  * ```keras``` neural network (applied to volcanic eruption data set)
+* __Week 8 (Zack)__
+  * Data visualization tips (color maps, figure design)
+  * Research workflow (documenting code and data)
+  * See [Zack's ClimatePython repository](https://github.com/zmlabe/ClimatePython) for more info!
