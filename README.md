@@ -16,6 +16,7 @@ Galen Yacalis
 
 Python libraries are styled as ```code``` below.
 
+#### Completed:
 * __Week 1 (Baird and Stephan)__
   * Install Python via Anaconda
   * Jupyter Notebook introduction
@@ -46,6 +47,10 @@ Python libraries are styled as ```code``` below.
   * Data visualization tips (color maps, figure design)
   * Research workflow (documenting code and data)
   * See [Zack's ClimatePython repository](https://github.com/zmlabe/ClimatePython) for more info!
+
+---
+
+#### Planned
 * __Week 9 (Meg):  2018/08/28__
   * Extreme value distributions in Python
 * __Week 10 (group discussion):  2018/09/04__
