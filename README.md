@@ -5,18 +5,21 @@ This was originally held on a ~weekly basis in the winter and spring of 2018, bu
 We will update the repository as we have more sessions.
 
 **Contributors (alph. order):**  
-Meg Fowler
-Zack Labe
-Baird Langenbrunner
-Stephan Rasp
-Chris Terai
+Meg Fowler  
+Zack Labe  
+Baird Langenbrunner  
+Stephan Rasp  
+Chris Terai  
 Galen Yacalis
 
-## Tutorial schedule
+## Upcoming schedule
+* __Week 9 (Meg):  2018/08/28__
+  * Extreme value distributions in Python
+* __Week 10 (group discussion):  2018/09/04__
+  * Discussion on writing transparent/reproducible papers
 
-Python libraries are styled as ```code``` below.
-
-#### Completed:
+---
+## Completed
 * __Week 1 (Baird and Stephan)__
   * Install Python via Anaconda
   * Jupyter Notebook introduction
@@ -47,11 +50,3 @@ Python libraries are styled as ```code``` below.
   * Data visualization tips (color maps, figure design)
   * Research workflow (documenting code and data)
   * See [Zack's ClimatePython repository](https://github.com/zmlabe/ClimatePython) for more info!
-
----
-
-#### Planned
-* __Week 9 (Meg):  2018/08/28__
-  * Extreme value distributions in Python
-* __Week 10 (group discussion):  2018/09/04__
-  * Discussion on writing transparent/reproducible papers
