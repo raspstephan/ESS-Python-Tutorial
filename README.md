@@ -5,11 +5,12 @@ This was originally held on a ~weekly basis in the winter and spring of 2018, bu
 We will update the repository as we have more sessions.
 
 **Contributors (alph. order):**  
-Zack Labe  
-Baird Langenbrunner  
-Stephan Rasp  
-Chris Terai  
-Galen Yacalis  
+Meg Fowler
+Zack Labe
+Baird Langenbrunner
+Stephan Rasp
+Chris Terai
+Galen Yacalis
 
 ## Tutorial schedule
 
@@ -45,3 +46,7 @@ Python libraries are styled as ```code``` below.
   * Data visualization tips (color maps, figure design)
   * Research workflow (documenting code and data)
   * See [Zack's ClimatePython repository](https://github.com/zmlabe/ClimatePython) for more info!
+* __Week 9 (Meg):  2018/08/28__
+  * Extreme value distributions in Python
+* __Week 10 (group discussion):  2018/09/04__
+  * Discussion on writing transparent/reproducible papers
