@@ -12,12 +12,6 @@ Stephan Rasp
 Chris Terai  
 Galen Yacalis
 
-## Upcoming schedule
-* __Week 9 (Meg):  2018/08/28__
-  * Extreme value distributions in Python
-* __Week 10 (group discussion):  2018/09/04__
-  * Discussion on writing transparent/reproducible papers
-
 ---
 ## Completed
 * __Week 1 (Baird and Stephan)__
@@ -50,3 +44,7 @@ Galen Yacalis
   * Data visualization tips (color maps, figure design)
   * Research workflow (documenting code and data)
   * See [Zack's ClimatePython repository](https://github.com/zmlabe/ClimatePython) for more info!
+* __Week 9 (Meg)__
+  * Extreme value distributions in Python
+* __Week 10 (group discussion)__
+  * Discussion on writing transparent/reproducible papers
